@@ -55,13 +55,14 @@ I am a driven Frontend Web Developer based in **India**, focused on translating 
 
 ---
 
+
 ## 📂 Featured Projects
 
 | Project | Description & Infrastructure | Core Tech Stack | Actions |
 | :--- | :--- | :--- | :--- |
-| **PocketLawyer v1.0.0 (MVP)** | An AI-driven legal assistance platform tailored for the Indian legal framework. Facilitates automated complaint generation, IPC/BNS guidance, and breakthrough legal research. | 🛠️ HTML5, CSS3, JS, Python | [Explore Ecosystem →](https://github.com/Aditya200622/PocketLawyer-v1.0.0-MVP) |
-| **NFSU.info** | A public-facing resource platform built to support and guide NFSU, UPSIFS, and general Forensic Science aspirants (B.Sc / B.Tech Cyber Security & CSE). | 🛠️ HTML5, CSS3, JavaScript | [Explore Live Site →](https://github.com/Aditya200622/NFSU.info) |
-| **ClothingVault** | A clean, highly aesthetic repository structure designed around scalable frontend code and e-commerce UI blocks. | 🛠️ HTML5, CSS3, JavaScript | [View Source →](https://github.com/Aditya200622/clothignvault) |
+| **⚖️ PocketLawyer** | An AI-powered Legal Assistance Platform designed to simplify access to legal information, complaint drafting, legal guidance, and citizen-centric legal services across India. Built to bridge the gap between law and technology. | 🛠️ React, JavaScript, Python, AI | [Explore Project →](https://github.com/Aditya200622/PocketLawyer-v1.0.0-MVP) |
+| **📄 FormFiller.in** | An AI-driven form automation ecosystem that enables users to store documents securely, auto-fill government and private forms, perform OCR-based extraction, and streamline repetitive paperwork through intelligent workflows. | 🛠️ React, NestJS, PostgreSQL, OCR, AI | [Explore Project →](https://github.com/Aditya200622) |
+| **🛡️ THE SHADOW (UPSIFS App)** | A Smart, Secure & Transparent Campus Governance Platform developed for UPSIFS featuring role-based authentication, QR Gate Pass, attendance monitoring, parent approval workflows, SOS emergency system, and real-time campus tracking. | 🛠️ React Native, Expo, Firebase, TypeScript | [Live Demo →](https://rococo-salmiakki-051c8f.netlify.app/) |
 
 ---
 
